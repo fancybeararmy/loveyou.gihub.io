@@ -629,7 +629,6 @@ blockquote > #opsL {
   border-radius: 50%;
   border: 3px solid transparent;
   border-top-color: #e74c3c;
-  opacity: 0.8;
   -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
   animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
 }
@@ -644,7 +643,6 @@ blockquote > #opsL {
   border-radius: 50%;
   border: 3px solid transparent;
   border-top-color: #f9c922;
-  opacity: 0.8;
   -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
   animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
 }
@@ -680,7 +678,6 @@ blockquote > #opsL {
   width: 51%;
   height: 100%;
   background-image: url("rg.jpg");
-  opacity: 0.98;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
