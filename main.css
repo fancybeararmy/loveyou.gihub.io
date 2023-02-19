@@ -679,7 +679,7 @@ blockquote > #opsL {
   top: 0;
   width: 51%;
   height: 100%;
-  background-image: url("ty.jpg");
+  background-image: url("rg.jpg") !important;
   opacity: 1;
   background-position: center center;
   background-size: cover;
